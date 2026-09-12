@@ -4,8 +4,8 @@
 Добавлен файл firstFile.txt в git_1
 Добавлен файл firstFile.txt в git_1
 Добавлен файл firstFile.txt в git_1
-Добавлен файл firstFile.txt в git_1
-Добавлен файл firstFile.txt в git_1
+файл firstFile.txt в git_1
+авлен файл firstFile.txt в git_1
 обавлен файл firstFile.txt в git_1
 
 Добавлен файл firstFile.txt в git_1
