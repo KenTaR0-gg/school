@@ -1,10 +1,19 @@
+
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
+dded secondFile.txt to git_1
+dded secondFile.txt to git_1
+
+Added s
+Added 1
 dded secondFile.txt to git_1
 dded secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
+Added secondFile.txt to git_1ndFile.txt to git_1
+
 Added secondFile.txt to git_1
+
 Added secondFile.txt to git_1
-Added secondFile.txt to git_1
+
