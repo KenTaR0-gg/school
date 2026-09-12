@@ -1,5 +1,5 @@
-Добавлен файл firstFile.txt в git_1
-Добавлен файл firstFile.txt в git_1
+Добавлен
+Добавлен 
 Добавлен файл firstFile.txt в git_1
 Добавлен файл firstFile.txt в git_1
 Добавлен файл firstFile.txt в git_1
