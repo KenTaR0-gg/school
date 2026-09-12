@@ -1,7 +1,7 @@
 Added s
 Added 1
-Added secondFile.txt to git_1
-Added secondFile.txt to git_1
+dded secondFile.txt to git_1
+dded secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
