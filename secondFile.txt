@@ -1,3 +1,5 @@
+Added s
+Added 1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
@@ -5,6 +7,8 @@ Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
+<<<<<<< HEAD
 Added secondFile.txt to git_1
+=======
 Added secondFile.txt to git_1
-Added secondFile.txt to git_1
+>>>>>>> git_1
